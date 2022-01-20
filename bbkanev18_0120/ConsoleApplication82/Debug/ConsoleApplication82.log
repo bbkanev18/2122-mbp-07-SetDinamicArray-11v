@@ -1,0 +1,3 @@
+﻿  Set.cpp
+C:\Users\user\source\repos\ConsoleApplication82\ConsoleApplication82\Set.cpp(31): warning C4715: 'Set::contains': not all control paths return a value
+  ConsoleApplication82.vcxproj -> C:\Users\user\source\repos\ConsoleApplication82\Debug\ConsoleApplication82.exe
